@@ -1,0 +1,2 @@
+# mcinfo
+Data about minecraft
