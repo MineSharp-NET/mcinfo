@@ -1,0 +1,1372 @@
+{
+  "18w50a": {
+    "registries": "18w50a/registries.json",
+    "tags": "18w50a/tags.json"
+  },
+  "19w02a": {
+    "registries": "19w02a/registries.json",
+    "tags": "19w02a/tags.json"
+  },
+  "19w03a": {
+    "registries": "19w03a/registries.json",
+    "tags": "19w03a/tags.json"
+  },
+  "19w03b": {
+    "registries": "19w03a/registries.json",
+    "tags": "19w03a/tags.json"
+  },
+  "19w03c": {
+    "registries": "19w03a/registries.json",
+    "tags": "19w03a/tags.json"
+  },
+  "19w04a": {
+    "registries": "19w04a/registries.json",
+    "tags": "19w03a/tags.json"
+  },
+  "19w04b": {
+    "registries": "19w04a/registries.json",
+    "tags": "19w03a/tags.json"
+  },
+  "19w05a": {
+    "registries": "19w05a/registries.json",
+    "tags": "19w05a/tags.json"
+  },
+  "19w06a": {
+    "registries": "19w06a/registries.json",
+    "tags": "19w05a/tags.json"
+  },
+  "19w07a": {
+    "registries": "19w07a/registries.json",
+    "tags": "19w05a/tags.json"
+  },
+  "19w08a": {
+    "registries": "19w08a/registries.json"
+  },
+  "19w08b": {
+    "registries": "19w08a/registries.json",
+    "tags": "19w05a/tags.json"
+  },
+  "19w09a": {
+    "registries": "19w09a/registries.json",
+    "tags": "19w09a/tags.json"
+  },
+  "19w11a": {
+    "registries": "19w11a/registries.json",
+    "tags": "19w11a/tags.json"
+  },
+  "19w11b": {
+    "registries": "19w11a/registries.json",
+    "tags": "19w11a/tags.json"
+  },
+  "19w12a": {
+    "registries": "19w12a/registries.json",
+    "tags": "19w11a/tags.json"
+  },
+  "19w12b": {
+    "registries": "19w12a/registries.json",
+    "tags": "19w11a/tags.json"
+  },
+  "19w13a": {
+    "registries": "19w13a/registries.json",
+    "tags": "19w11a/tags.json"
+  },
+  "19w13b": {
+    "registries": "19w13b/registries.json",
+    "tags": "19w13b/tags.json"
+  },
+  "3D Shareware v1.34": {
+    "registries": "3D Shareware v1.34/registries.json",
+    "tags": "19w13b/tags.json"
+  },
+  "19w14a": {
+    "registries": "19w13b/registries.json",
+    "tags": "19w13b/tags.json"
+  },
+  "19w14b": {
+    "registries": "19w14b/registries.json",
+    "tags": "19w13b/tags.json"
+  },
+  "1.14 Pre-Release 1": {
+    "registries": "19w14b/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14 Pre-Release 2": {
+    "registries": "1.14 Pre-Release 2/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14 Pre-Release 3": {
+    "registries": "1.14 Pre-Release 2/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14 Pre-Release 4": {
+    "registries": "1.14 Pre-Release 2/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14 Pre-Release 5": {
+    "registries": "1.14 Pre-Release 2/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14": {
+    "registries": "1.14 Pre-Release 2/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14.1 Pre-Release 1": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14.1 Pre-Release 2": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14.1": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14 Pre-Release 1/tags.json"
+  },
+  "1.14.2 Pre-Release 1": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.2 Pre-Release 2": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.2 Pre-Release 3": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.2 Pre-Release 4": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.2": {
+    "registries": "1.14.1 Pre-Release 1/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.3-pre1": {
+    "registries": "1.14.3-pre1/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.3-pre2": {
+    "registries": "1.14.3-pre2/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.3-pre3": {
+    "registries": "1.14.3-pre3/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.3-pre4": {
+    "registries": "1.14.3-pre3/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.3": {
+    "registries": "1.14.3-pre3/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4-pre1": {
+    "registries": "1.14.3-pre3/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4-pre2": {
+    "registries": "1.14.3-pre3/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4-pre3": {
+    "registries": "1.14.3-pre3/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4-pre4": {
+    "registries": "1.14.4-pre4/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4-pre5": {
+    "registries": "1.14.4-pre4/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4-pre6": {
+    "registries": "1.14.4-pre4/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4-pre7": {
+    "registries": "1.14.4-pre4/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "1.14.4": {
+    "registries": "1.14.4-pre4/registries.json",
+    "tags": "1.14.2 Pre-Release 1/tags.json"
+  },
+  "19w34a": {
+    "registries": "19w34a/registries.json",
+    "tags": "19w34a/tags.json"
+  },
+  "19w35a": {
+    "registries": "19w35a/registries.json",
+    "tags": "19w34a/tags.json"
+  },
+  "19w36a": {
+    "registries": "19w36a/registries.json",
+    "tags": "19w36a/tags.json"
+  },
+  "19w37a": {
+    "registries": "19w36a/registries.json",
+    "tags": "19w36a/tags.json"
+  },
+  "19w38a": {
+    "registries": "19w36a/registries.json",
+    "tags": "19w36a/tags.json"
+  },
+  "19w38b": {
+    "registries": "19w36a/registries.json",
+    "tags": "19w36a/tags.json"
+  },
+  "19w39a": {
+    "registries": "19w36a/registries.json",
+    "tags": "19w36a/tags.json"
+  },
+  "19w40a": {
+    "registries": "19w36a/registries.json",
+    "tags": "19w36a/tags.json"
+  },
+  "19w41a": {
+    "registries": "19w41a/registries.json",
+    "tags": "19w41a/tags.json"
+  },
+  "19w42a": {
+    "registries": "19w41a/registries.json",
+    "tags": "19w42a/tags.json"
+  },
+  "19w44a": {
+    "registries": "19w44a/registries.json",
+    "tags": "19w44a/tags.json"
+  },
+  "19w45a": {
+    "registries": "19w45a/registries.json",
+    "tags": "19w45a/tags.json"
+  },
+  "19w45b": {
+    "registries": "19w45a/registries.json",
+    "tags": "19w45a/tags.json"
+  },
+  "19w46a": {
+    "registries": "19w46a/registries.json",
+    "tags": "19w45a/tags.json"
+  },
+  "19w46b": {
+    "registries": "19w46a/registries.json",
+    "tags": "19w45a/tags.json"
+  },
+  "1.15-pre1": {
+    "registries": "19w46a/registries.json",
+    "tags": "19w45a/tags.json"
+  },
+  "1.15-pre2": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15-pre3": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15-pre4": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15-pre5": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15-pre6": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15-pre7": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15.1-pre1": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15.1": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15.2-pre1": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15.2-pre2": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "1.15.2": {
+    "registries": "1.15-pre2/registries.json",
+    "tags": "1.15-pre2/tags.json"
+  },
+  "20w06a": {
+    "registries": "20w06a/registries.json",
+    "tags": "20w06a/tags.json"
+  },
+  "20w07a": {
+    "registries": "20w07a/registries.json",
+    "tags": "20w07a/tags.json"
+  },
+  "20w08a": {
+    "registries": "20w07a/registries.json",
+    "tags": "20w07a/tags.json"
+  },
+  "20w09a": {
+    "registries": "20w09a/registries.json",
+    "tags": "20w09a/tags.json"
+  },
+  "20w10a": {
+    "registries": "20w10a/registries.json",
+    "tags": "20w10a/tags.json"
+  },
+  "20w11a": {
+    "registries": "20w11a/registries.json",
+    "tags": "20w11a/tags.json"
+  },
+  "20w12a": {
+    "registries": "20w12a/registries.json",
+    "tags": "20w12a/tags.json"
+  },
+  "20w13a": {
+    "registries": "20w13a/registries.json",
+    "tags": "20w13a/tags.json"
+  },
+  "20w13b": {
+    "registries": "20w13a/registries.json",
+    "tags": "20w13a/tags.json"
+  },
+  "20w14infinite": {
+    "registries": "20w14infinite/registries.json",
+    "tags": "20w13a/tags.json"
+  },
+  "20w14a": {
+    "registries": "20w14a/registries.json",
+    "tags": "20w14a/tags.json"
+  },
+  "20w15a": {
+    "registries": "20w15a/registries.json",
+    "tags": "20w15a/tags.json"
+  },
+  "20w16a": {
+    "registries": "20w16a/registries.json",
+    "tags": "20w16a/tags.json"
+  },
+  "20w17a": {
+    "registries": "20w17a/registries.json",
+    "tags": "20w17a/tags.json"
+  },
+  "20w18a": {
+    "registries": "20w17a/registries.json",
+    "tags": "20w18a/tags.json"
+  },
+  "20w19a": {
+    "registries": "20w19a/registries.json",
+    "tags": "20w19a/tags.json"
+  },
+  "20w20a": {
+    "registries": "20w20a/registries.json",
+    "tags": "20w20a/tags.json"
+  },
+  "20w20b": {
+    "registries": "20w20a/registries.json",
+    "tags": "20w20a/tags.json"
+  },
+  "20w21a": {
+    "registries": "20w21a/registries.json",
+    "tags": "20w21a/tags.json"
+  },
+  "20w22a": {
+    "registries": "20w22a/registries.json",
+    "tags": "20w22a/tags.json"
+  },
+  "1.16-pre1": {
+    "registries": "1.16-pre1/registries.json",
+    "tags": "1.16-pre1/tags.json"
+  },
+  "1.16-pre2": {
+    "registries": "1.16-pre1/registries.json",
+    "tags": "1.16-pre1/tags.json"
+  },
+  "1.16-pre3": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16-pre4": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16-pre5": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16-pre6": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16-pre7": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16-pre8": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16-rc1": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "1.16.1": {
+    "registries": "1.16-pre3/registries.json",
+    "tags": "1.16-pre3/tags.json"
+  },
+  "20w27a": {
+    "registries": "20w27a/registries.json",
+    "tags": "20w27a/tags.json"
+  },
+  "20w28a": {
+    "registries": "20w28a/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "20w29a": {
+    "registries": "20w29a/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "20w30a": {
+    "registries": "20w30a/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.2-pre1": {
+    "registries": "20w30a/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.2-pre2": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.2-pre3": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.2-rc1": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.2-rc2": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.2": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.3-rc1": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.3": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.4-pre1": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.4-pre2": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.4-rc1": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.4": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "20w45a": {
+    "registries": "20w45a/registries.json",
+    "tags": "20w45a/tags.json"
+  },
+  "20w46a": {
+    "registries": "20w46a/registries.json",
+    "tags": "20w46a/tags.json"
+  },
+  "20w48a": {
+    "registries": "20w48a/registries.json",
+    "tags": "20w48a/tags.json"
+  },
+  "20w49a": {
+    "registries": "20w49a/registries.json",
+    "tags": "20w49a/tags.json"
+  },
+  "20w51a": {
+    "registries": "20w51a/registries.json",
+    "tags": "20w51a/tags.json"
+  },
+  "1.16.5-rc1": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "1.16.5": {
+    "registries": "1.16.2-pre2/registries.json",
+    "tags": "20w28a/tags.json"
+  },
+  "21w03a": {
+    "registries": "21w03a/registries.json",
+    "tags": "21w03a/tags.json"
+  },
+  "21w05a": {
+    "registries": "21w05a/registries.json",
+    "tags": "21w05a/tags.json"
+  },
+  "21w05b": {
+    "registries": "21w05b/registries.json",
+    "tags": "21w05a/tags.json"
+  },
+  "21w06a": {
+    "registries": "21w06a/registries.json",
+    "tags": "21w05a/tags.json"
+  },
+  "21w07a": {
+    "registries": "21w07a/registries.json",
+    "tags": "21w07a/tags.json"
+  },
+  "21w08a": {
+    "registries": "21w08a/registries.json",
+    "tags": "21w08a/tags.json"
+  },
+  "21w08b": {
+    "registries": "21w08a/registries.json",
+    "tags": "21w08a/tags.json"
+  },
+  "21w10a": {
+    "registries": "21w10a/registries.json",
+    "tags": "21w10a/tags.json"
+  },
+  "21w11a": {
+    "registries": "21w11a/registries.json",
+    "tags": "21w11a/tags.json"
+  },
+  "21w13a": {
+    "registries": "21w13a/registries.json",
+    "tags": "21w13a/tags.json"
+  },
+  "21w14a": {
+    "registries": "21w14a/registries.json",
+    "tags": "21w14a/tags.json"
+  },
+  "21w15a": {
+    "registries": "21w15a/registries.json",
+    "tags": "21w14a/tags.json"
+  },
+  "21w16a": {
+    "registries": "21w16a/registries.json",
+    "tags": "21w16a/tags.json"
+  },
+  "21w17a": {
+    "registries": "21w16a/registries.json",
+    "tags": "21w17a/tags.json"
+  },
+  "21w18a": {
+    "registries": "21w18a/registries.json",
+    "tags": "21w18a/tags.json"
+  },
+  "21w19a": {
+    "registries": "21w19a/registries.json",
+    "tags": "21w19a/tags.json"
+  },
+  "21w20a": {
+    "registries": "21w20a/registries.json",
+    "tags": "21w20a/tags.json"
+  },
+  "1.17-pre1": {
+    "registries": "1.17-pre1/registries.json",
+    "tags": "1.17-pre1/tags.json"
+  },
+  "1.17-pre2": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17-pre2/tags.json"
+  },
+  "1.17-pre3": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17-pre2/tags.json"
+  },
+  "1.17-pre4": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17-pre2/tags.json"
+  },
+  "1.17-pre5": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17-pre2/tags.json"
+  },
+  "1.17-rc1": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17-pre2/tags.json"
+  },
+  "1.17-rc2": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17-pre2/tags.json"
+  },
+  "1.17": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17-pre2/tags.json"
+  },
+  "1.17.1-pre1": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17.1-pre1/tags.json"
+  },
+  "1.17.1-pre2": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17.1-pre1/tags.json"
+  },
+  "1.17.1-pre3": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17.1-pre1/tags.json"
+  },
+  "1.17.1-rc1": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17.1-pre1/tags.json"
+  },
+  "1.17.1-rc2": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17.1-pre1/tags.json"
+  },
+  "1.17.1": {
+    "registries": "1.17-pre2/registries.json",
+    "tags": "1.17.1-pre1/tags.json"
+  },
+  "21w37a": {
+    "registries": "21w37a/registries.json",
+    "tags": "21w37a/tags.json"
+  },
+  "21w38a": {
+    "registries": "21w38a/registries.json",
+    "tags": "21w37a/tags.json"
+  },
+  "21w39a": {
+    "registries": "21w39a/registries.json",
+    "tags": "21w37a/tags.json"
+  },
+  "21w40a": {
+    "registries": "21w40a/registries.json",
+    "tags": "21w37a/tags.json"
+  },
+  "21w41a": {
+    "registries": "21w41a/registries.json",
+    "tags": "21w37a/tags.json"
+  },
+  "21w42a": {
+    "registries": "21w42a/registries.json",
+    "tags": "21w42a/tags.json"
+  },
+  "21w43a": {
+    "registries": "21w42a/registries.json",
+    "tags": "21w43a/tags.json"
+  },
+  "21w44a": {
+    "registries": "21w44a/registries.json",
+    "tags": "21w44a/tags.json"
+  },
+  "1.18-pre1": {
+    "registries": "1.18-pre1/registries.json",
+    "tags": "1.18-pre1/tags.json"
+  },
+  "1.18-pre2": {
+    "registries": "1.18-pre1/registries.json",
+    "tags": "1.18-pre1/tags.json"
+  },
+  "1.18-pre3": {
+    "registries": "1.18-pre1/registries.json",
+    "tags": "1.18-pre1/tags.json"
+  },
+  "1.18-pre4": {
+    "registries": "1.18-pre1/registries.json",
+    "tags": "1.18-pre1/tags.json"
+  },
+  "1.18-pre5": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18-pre6": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18-pre7": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18-pre8": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18-rc1": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18-rc2": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18-rc3": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18-rc4": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18.1-pre1": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18.1-rc1": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18.1-rc2": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18.1-rc3": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "1.18.1": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "1.18-pre5/tags.json"
+  },
+  "22w03a": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "22w03a/tags.json"
+  },
+  "22w05a": {
+    "registries": "1.18-pre5/registries.json",
+    "tags": "22w05a/tags.json"
+  },
+  "22w06a": {
+    "registries": "22w06a/registries.json",
+    "tags": "22w05a/tags.json"
+  },
+  "22w07a": {
+    "registries": "22w07a/registries.json",
+    "tags": "22w07a/tags.json"
+  },
+  "1.18.2-pre1": {
+    "registries": "1.18.2-pre1/registries.json",
+    "tags": "1.18.2-pre1/tags.json"
+  },
+  "1.18.2-pre2": {
+    "registries": "1.18.2-pre2/registries.json",
+    "tags": "1.18.2-pre2/tags.json"
+  },
+  "1.18.2-pre3": {
+    "registries": "1.18.2-pre2/registries.json",
+    "tags": "1.18.2-pre2/tags.json"
+  },
+  "1.18.2-rc1": {
+    "registries": "1.18.2-pre2/registries.json",
+    "tags": "1.18.2-pre2/tags.json"
+  },
+  "1.18.2": {
+    "registries": "1.18.2-pre2/registries.json",
+    "tags": "1.18.2-pre2/tags.json"
+  },
+  "22w11a": {
+    "registries": "22w11a/registries.json",
+    "tags": "22w11a/tags.json"
+  },
+  "22w12a": {
+    "registries": "22w12a/registries.json",
+    "tags": "22w12a/tags.json"
+  },
+  "22w13a": {
+    "registries": "22w13a/registries.json",
+    "tags": "22w13a/tags.json"
+  },
+  "22w13oneblockatatime": {
+    "registries": "22w13oneblockatatime/registries.json",
+    "tags": "22w13oneblockatatime/tags.json"
+  },
+  "22w14a": {
+    "registries": "22w14a/registries.json",
+    "tags": "22w14a/tags.json"
+  },
+  "22w15a": {
+    "registries": "22w15a/registries.json",
+    "tags": "22w15a/tags.json"
+  },
+  "22w16a": {
+    "registries": "22w16a/registries.json",
+    "tags": "22w16a/tags.json"
+  },
+  "22w16b": {
+    "registries": "22w16a/registries.json",
+    "tags": "22w16a/tags.json"
+  },
+  "22w17a": {
+    "registries": "22w17a/registries.json",
+    "tags": "22w17a/tags.json"
+  },
+  "22w18a": {
+    "registries": "22w18a/registries.json",
+    "tags": "22w18a/tags.json"
+  },
+  "22w19a": {
+    "registries": "22w19a/registries.json",
+    "tags": "22w19a/tags.json"
+  },
+  "1.19-pre1": {
+    "registries": "1.19-pre1/registries.json",
+    "tags": "1.19-pre1/tags.json"
+  },
+  "1.19-pre2": {
+    "registries": "1.19-pre2/registries.json",
+    "tags": "1.19-pre2/tags.json"
+  },
+  "1.19-pre3": {
+    "registries": "1.19-pre3/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19-pre4": {
+    "registries": "1.19-pre3/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19-pre5": {
+    "registries": "1.19-pre3/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19-rc1": {
+    "registries": "1.19-pre3/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19-rc2": {
+    "registries": "1.19-pre3/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19": {
+    "registries": "1.19-pre3/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "22w24a": {
+    "registries": "22w24a/registries.json",
+    "tags": "22w24a/tags.json"
+  },
+  "1.19.1-pre1": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-rc1": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-pre2": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-pre3": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-pre4": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-pre5": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-pre6": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-rc2": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1-rc3": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.1": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.2-rc1": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.2-rc2": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "1.19.2": {
+    "registries": "22w24a/registries.json",
+    "tags": "1.19-pre3/tags.json"
+  },
+  "22w42a": {
+    "registries": "22w42a/registries.json",
+    "tags": "22w42a/tags.json"
+  },
+  "22w43a": {
+    "registries": "22w42a/registries.json",
+    "tags": "22w42a/tags.json"
+  },
+  "22w44a": {
+    "registries": "22w44a/registries.json",
+    "tags": "22w44a/tags.json"
+  },
+  "22w45a": {
+    "registries": "22w45a/registries.json",
+    "tags": "22w45a/tags.json"
+  },
+  "22w46a": {
+    "registries": "22w46a/registries.json",
+    "tags": "22w46a/tags.json"
+  },
+  "1.19.3-pre1": {
+    "registries": "22w46a/registries.json",
+    "tags": "22w46a/tags.json"
+  },
+  "1.19.3-pre2": {
+    "registries": "22w46a/registries.json",
+    "tags": "1.19.3-pre2/tags.json"
+  },
+  "1.19.3-pre3": {
+    "registries": "1.19.3-pre3/registries.json",
+    "tags": "1.19.3-pre2/tags.json"
+  },
+  "1.19.3-rc1": {
+    "registries": "1.19.3-pre3/registries.json",
+    "tags": "1.19.3-pre2/tags.json"
+  },
+  "1.19.3-rc2": {
+    "registries": "1.19.3-pre3/registries.json",
+    "tags": "1.19.3-pre2/tags.json"
+  },
+  "1.19.3-rc3": {
+    "registries": "1.19.3-pre3/registries.json",
+    "tags": "1.19.3-pre2/tags.json"
+  },
+  "1.19.3": {
+    "registries": "1.19.3-pre3/registries.json",
+    "tags": "1.19.3-pre2/tags.json"
+  },
+  "23w03a": {
+    "registries": "1.19.3-pre3/registries.json",
+    "tags": "23w03a/tags.json"
+  },
+  "23w04a": {
+    "registries": "23w04a/registries.json",
+    "tags": "23w03a/tags.json"
+  },
+  "23w05a": {
+    "registries": "23w04a/registries.json",
+    "tags": "23w03a/tags.json"
+  },
+  "23w06a": {
+    "registries": "23w06a/registries.json",
+    "tags": "23w06a/tags.json"
+  },
+  "23w07a": {
+    "tags": "23w07a/tags.json"
+  },
+  "1.19.4-pre1": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre1/tags.json"
+  },
+  "1.19.4-pre2": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre2/tags.json"
+  },
+  "1.19.4-pre3": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre2/tags.json"
+  },
+  "1.19.4-pre4": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre4/tags.json"
+  },
+  "1.19.4-rc1": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre4/tags.json"
+  },
+  "1.19.4-rc2": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre4/tags.json"
+  },
+  "1.19.4-rc3": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre4/tags.json"
+  },
+  "1.19.4": {
+    "registries": "1.19.4-pre1/registries.json",
+    "tags": "1.19.4-pre4/tags.json"
+  },
+  "23w12a": {
+    "registries": "23w12a/registries.json",
+    "tags": "23w12a/tags.json"
+  },
+  "23w13a": {
+    "registries": "23w12a/registries.json",
+    "tags": "23w13a/tags.json"
+  },
+  "23w13a_or_b": {
+    "registries": "23w13a_or_b/registries.json",
+    "tags": "23w13a_or_b/tags.json"
+  },
+  "23w14a": {
+    "registries": "23w14a/registries.json",
+    "tags": "23w14a/tags.json"
+  },
+  "23w16a": {
+    "registries": "23w16a/registries.json",
+    "tags": "23w16a/tags.json"
+  },
+  "23w17a": {
+    "registries": "23w17a/registries.json",
+    "tags": "23w17a/tags.json"
+  },
+  "23w18a": {
+    "registries": "23w18a/registries.json",
+    "tags": "23w17a/tags.json"
+  },
+  "1.20-pre1": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-pre1/tags.json"
+  },
+  "1.20-pre2": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-pre2/tags.json"
+  },
+  "1.20-pre3": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-pre2/tags.json"
+  },
+  "1.20-pre4": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-pre2/tags.json"
+  },
+  "1.20-pre5": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-pre2/tags.json"
+  },
+  "1.20-pre6": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-pre2/tags.json"
+  },
+  "1.20-pre7": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-pre7/tags.json"
+  },
+  "1.20-rc1": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-rc1/tags.json"
+  },
+  "1.20": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-rc1/tags.json"
+  },
+  "1.20.1-rc1": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-rc1/tags.json"
+  },
+  "1.20.1": {
+    "registries": "23w18a/registries.json",
+    "tags": "1.20-rc1/tags.json"
+  },
+  "23w31a": {
+    "registries": "23w31a/registries.json",
+    "tags": "23w31a/tags.json"
+  },
+  "23w32a": {
+    "registries": "23w32a/registries.json",
+    "tags": "23w32a/tags.json"
+  },
+  "23w33a": {
+    "registries": "23w33a/registries.json",
+    "tags": "23w33a/tags.json"
+  },
+  "23w35a": {
+    "registries": "23w33a/registries.json",
+    "tags": "23w33a/tags.json"
+  },
+  "1.20.2-pre1": {
+    "registries": "23w33a/registries.json",
+    "tags": "1.20.2-pre1/tags.json"
+  },
+  "1.20.2-pre2": {
+    "registries": "23w33a/registries.json",
+    "tags": "23w33a/tags.json"
+  },
+  "1.20.2-pre3": {
+    "registries": "23w33a/registries.json",
+    "tags": "23w33a/tags.json"
+  },
+  "1.20.2-pre4": {
+    "registries": "23w33a/registries.json",
+    "tags": "1.20.2-pre4/tags.json"
+  },
+  "1.20.2-rc1": {
+    "registries": "23w33a/registries.json",
+    "tags": "1.20.2-pre4/tags.json"
+  },
+  "1.20.2-rc2": {
+    "registries": "23w33a/registries.json",
+    "tags": "1.20.2-pre4/tags.json"
+  },
+  "1.20.2": {
+    "registries": "23w33a/registries.json",
+    "tags": "1.20.2-pre4/tags.json"
+  },
+  "23w40a": {
+    "registries": "23w40a/registries.json",
+    "tags": "23w40a/tags.json"
+  },
+  "23w41a": {
+    "registries": "23w41a/registries.json",
+    "tags": "23w40a/tags.json"
+  },
+  "23w42a": {
+    "registries": "23w42a/registries.json",
+    "tags": "23w42a/tags.json"
+  },
+  "23w43a": {
+    "registries": "23w43a/registries.json",
+    "tags": "23w42a/tags.json"
+  },
+  "23w43b": {
+    "registries": "23w43a/registries.json",
+    "tags": "23w42a/tags.json"
+  },
+  "23w44a": {
+    "registries": "23w43a/registries.json",
+    "tags": "23w42a/tags.json"
+  },
+  "23w45a": {
+    "registries": "23w45a/registries.json",
+    "tags": "23w42a/tags.json"
+  },
+  "23w46a": {
+    "registries": "23w46a/registries.json",
+    "tags": "23w42a/tags.json"
+  },
+  "1.20.3-pre1": {
+    "registries": "1.20.3-pre1/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "1.20.3-pre2": {
+    "registries": "1.20.3-pre2/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "1.20.3-pre3": {
+    "registries": "1.20.3-pre2/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "1.20.3-pre4": {
+    "registries": "1.20.3-pre2/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "1.20.3-rc1": {
+    "registries": "1.20.3-pre2/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "1.20.3": {
+    "registries": "1.20.3-pre2/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "1.20.4-rc1": {
+    "registries": "1.20.3-pre2/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "1.20.4": {
+    "registries": "1.20.3-pre2/registries.json",
+    "tags": "1.20.3-pre1/tags.json"
+  },
+  "23w51a": {
+    "registries": "23w51a/registries.json",
+    "tags": "23w51a/tags.json"
+  },
+  "23w51b": {
+    "registries": "23w51a/registries.json",
+    "tags": "23w51a/tags.json"
+  },
+  "24w03a": {
+    "registries": "24w03a/registries.json",
+    "tags": "24w03a/tags.json"
+  },
+  "24w03b": {
+    "registries": "24w03b/registries.json",
+    "tags": "24w03a/tags.json"
+  },
+  "24w04a": {
+    "registries": "24w04a/registries.json",
+    "tags": "24w03a/tags.json"
+  },
+  "24w05a": {
+    "registries": "24w05a/registries.json",
+    "tags": "24w05a/tags.json"
+  },
+  "24w05b": {
+    "registries": "24w05b/registries.json",
+    "tags": "24w05a/tags.json"
+  },
+  "24w06a": {
+    "registries": "24w06a/registries.json",
+    "tags": "24w06a/tags.json"
+  },
+  "24w07a": {
+    "registries": "24w07a/registries.json",
+    "tags": "24w07a/tags.json"
+  },
+  "24w09a": {
+    "registries": "24w09a/registries.json",
+    "tags": "24w09a/tags.json"
+  },
+  "24w10a": {
+    "registries": "24w10a/registries.json",
+    "tags": "24w10a/tags.json"
+  },
+  "24w11a": {
+    "registries": "24w11a/registries.json",
+    "tags": "24w10a/tags.json"
+  },
+  "24w12a": {
+    "registries": "24w12a/registries.json",
+    "tags": "24w12a/tags.json"
+  },
+  "24w13a": {
+    "registries": "24w13a/registries.json",
+    "tags": "24w13a/tags.json"
+  },
+  "24w14potato": {
+    "registries": "24w14potato/registries.json",
+    "tags": "24w14potato/tags.json"
+  },
+  "24w14a": {
+    "registries": "24w13a/registries.json",
+    "tags": "24w13a/tags.json"
+  },
+  "1.20.5-pre1": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre1/tags.json"
+  },
+  "1.20.5-pre2": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre1/tags.json"
+  },
+  "1.20.5-pre3": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "1.20.5-pre4": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "1.20.5-rc1": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "1.20.5-rc2": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "1.20.5-rc3": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "1.20.5": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "1.20.6-rc1": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "1.20.6": {
+    "registries": "1.20.5-pre1/registries.json",
+    "tags": "1.20.5-pre3/tags.json"
+  },
+  "24w18a": {
+    "registries": "24w18a/registries.json",
+    "tags": "24w18a/tags.json"
+  },
+  "24w19a": {
+    "registries": "24w19a/registries.json",
+    "tags": "24w19a/tags.json"
+  },
+  "24w19b": {
+    "registries": "24w19a/registries.json",
+    "tags": "24w19a/tags.json"
+  },
+  "24w20a": {
+    "registries": "24w19a/registries.json",
+    "tags": "24w19a/tags.json"
+  },
+  "24w21a": {
+    "registries": "24w21a/registries.json",
+    "tags": "24w21a/tags.json"
+  },
+  "24w21b": {
+    "registries": "24w21a/registries.json",
+    "tags": "24w21a/tags.json"
+  },
+  "1.21-pre1": {
+    "registries": "1.21-pre1/registries.json",
+    "tags": "1.21-pre1/tags.json"
+  },
+  "1.21-pre2": {
+    "registries": "1.21-pre2/registries.json",
+    "tags": "1.21-pre2/tags.json"
+  },
+  "1.21-pre3": {
+    "registries": "1.21-pre3/registries.json",
+    "tags": "1.21-pre2/tags.json"
+  },
+  "1.21-pre4": {
+    "registries": "1.21-pre3/registries.json",
+    "tags": "1.21-pre2/tags.json"
+  },
+  "1.21-rc1": {
+    "registries": "1.21-pre3/registries.json",
+    "tags": "1.21-pre2/tags.json"
+  },
+  "1.21": {
+    "registries": "1.21-pre3/registries.json",
+    "tags": "1.21-pre2/tags.json"
+  },
+  "1.21.1-rc1": {
+    "registries": "1.21-pre3/registries.json",
+    "tags": "1.21-pre2/tags.json"
+  },
+  "1.21.1": {
+    "registries": "1.21-pre3/registries.json",
+    "tags": "1.21-pre2/tags.json"
+  },
+  "24w33a": {
+    "registries": "24w33a/registries.json",
+    "tags": "24w33a/tags.json"
+  },
+  "24w34a": {
+    "registries": "24w34a/registries.json",
+    "tags": "24w33a/tags.json"
+  },
+  "24w35a": {
+    "registries": "24w35a/registries.json",
+    "tags": "24w33a/tags.json"
+  }
+}
